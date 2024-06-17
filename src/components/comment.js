@@ -19,7 +19,7 @@ function Comment({open}) {
 
      <Rate/>
     </div>
-    <p className="px-4 leading-tight text-sm mb-2">Whether it's prompt responses to inquiries, seamless transactions, or personalized attention to detail, they consistently go the extra mile to ensure a smooth and delightful experience. </p>
+    <p className="px-4 leading-tight text-sm mb-2">Whether its prompt responses to inquiries, seamless transactions, or personalized attention to detail, they consistently go the extra mile to ensure a smooth and delightful experience. </p>
     <div class="border border-green-600 border-dashed">
   </div>
     </div>
